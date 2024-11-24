@@ -20,5 +20,5 @@ Aplikasi ini menawarkan fitur: Menambahkan Kontak serta mengedit dan menghapus
 
 ## Demo
 
-![App Screenshot](https://github.com/mariariaolpah/UTS_BukuAlamat/blob/main/img.gif)
+![App Screenshot](https://github.com/mariariaolpah/AplikasiPengelolaKontak/blob/main/IMG.gif)
 
